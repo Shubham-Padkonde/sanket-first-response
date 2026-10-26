@@ -10,7 +10,7 @@ These are functional checks, not a penetration test, accessibility audit or clin
 
 ## Browser checks
 
-Observed in the desktop browser: home navigation, fictional sample loading, multi-selection response changes, Hindi/English switching, incident preparation, masked-download confirmation, and explicit absence of an official submission. The service worker reached its ready state. Interface screenshots use synthetic data only. A ready cache is not a physical offline-reload test.
+Observed in the desktop browser: home navigation, fictional sample loading, multi-selection response changes, Hindi/English switching, incident preparation, masked-download confirmation, evidence fingerprinting, practice-answer feedback, and explicit absence of an official submission. The service worker reached its ready state. The public GitHub Pages demo was opened and checked. Interface screenshots use synthetic data only. A ready cache is not a physical offline-reload test.
 
 ## Pending evaluation
 

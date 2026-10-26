@@ -2,6 +2,8 @@
 
 **Cyber-fraud first response in English and Hindi.** A browser-local prototype for Hack for Social Cause (VBYLD 2027), theme: **Digital Safety & Cyber Fraud Awareness**.
 
+**[Try the public demo](https://shubham-padkonde.github.io/sanket-first-response/)** - no account required.
+
 Sanket helps a person choose an immediate next step, prepare an incident summary and reach India's official reporting channels. It is an independent student-project prototype, not a government service. It does not detect scams with AI, submit complaints, freeze funds or guarantee recovery.
 
 ## Run in 30 seconds
