@@ -1,0 +1,6 @@
+[
+ {"id":"S01","synthetic":true,"situation":["loss"],"amount":"2500","channel":"UPI","expectedActions":["report","bank","evidence","portal"],"story":"Fictional refund impersonation causing a UPI payment."},
+ {"id":"S02","synthetic":true,"situation":["remote","loss"],"expectedActions":["disconnect","report","bank","secure","evidence","portal"]},
+ {"id":"S03","synthetic":true,"situation":["credentials"],"expectedActions":["bank","secure","evidence","portal"]},
+ {"id":"S04","synthetic":true,"situation":["suspicious"],"expectedActions":["pause","evidence","chakshu"]}
+]

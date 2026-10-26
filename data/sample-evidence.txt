@@ -1,0 +1,7 @@
+SYNTHETIC TRAINING FILE - NOT A REAL TRANSACTION
+Scenario: refund impersonation
+Amount: INR 2500
+Reference: DEMO-REF-4821
+Date: 25 October 2026
+Use this file only to demonstrate local SHA-256 fingerprinting.
+Do not submit fictional incidents to a helpline, bank or government portal.
